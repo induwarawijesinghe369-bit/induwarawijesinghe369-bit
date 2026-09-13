@@ -1,16 +1,104 @@
-## Hi there 👋
+# Hi, I'm Induwara Wijesinghe 👋
 
-<!--
-**induwarawijesinghe369-bit/induwarawijesinghe369-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mechanical Engineering Undergraduate | Mechatronics
 
-Here are some ideas to get you started:
+**Robotics • Mechatronics • Embedded Systems • Computer Vision • CAD • Simulation**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a third-year Mechanical Engineering undergraduate at the **University of Moratuwa**, specializing in the **Mechatronics stream**.
+
+My interests include robotics, autonomous systems, embedded systems, computer vision, mechanical design, kinematics, control and engineering simulation.
+
+---
+
+## 🛠️ Technical Skills
+
+### Robotics & Engineering
+- Mechanical Design
+- CAD Modelling
+- Robotics
+- Kinematics & System Modelling
+- Automation
+- Engineering Simulation
+
+### Software & Simulation
+- SolidWorks
+- AutoCAD
+- MATLAB
+- Simulink
+- Simscape Multibody
+- COMSOL Multiphysics
+- MSC Adams
+- Ansys
+
+### Programming & Computer Vision
+- Python
+- C++
+- MATLAB
+- OpenCV
+- YOLO
+- Image Processing
+
+### Embedded Systems & Hardware
+- Raspberry Pi
+- ESP32
+- Arduino
+- Sensors
+- Stepper Motors
+- Servo Motors
+- BLDC Motors
+- ESCs
+
+---
+
+## 🤖 Featured Projects
+
+### Vision-Guided Cartesian Pick-and-Place Robot
+Raspberry Pi-based automated pick-and-place system integrating computer vision, YOLOv8, mechanical design and embedded motor control.
+
+### SAUVC 2026 – Autonomous Underwater Vehicle
+Development of an autonomous underwater vehicle focusing on underwater sensing, orientation, depth control and communication.
+
+### Smart Bicycle Instrumentation System
+ESP32-based instrumentation system integrating heart-rate, IMU, GPS and velocity sensing with Firebase-based IoT data acquisition.
+
+### 6-DOF Robotic Arm Simulation
+Ongoing simulation study involving robotic arm modelling, kinematics and trajectory analysis using MATLAB.
+
+### Biped Wall-Climbing Robot
+Ongoing mechatronics project focused on autonomous wall climbing, vacuum adhesion, robotic gait planning, sensing and vision-based inspection.
+
+---
+
+## 🎓 Education
+
+**BSc (Hons) in Mechanical Engineering**  
+University of Moratuwa  
+*Mechatronics Specialization*
+
+---
+
+## 📜 Certifications
+
+- MATLAB Onramp — MathWorks
+- Simulink Onramp — MathWorks
+- Assured Diploma in Information Technology — ESOFT Metro Campus
+- Diploma in Spoken English — British Way English Academy
+
+---
+
+## 🏆 Achievements
+
+- Dean's List — University of Moratuwa
+- Student Affiliate Member — Institution of Mechanical Engineers (IMechE)
+- National Black Belt (1st Dan) — Karate-do
+- 2nd Place — Shotokan Karate-do National Championship Tournament
+
+---
+
+## 📫 Connect With Me
+
+- **Email:** induwarawijesinghe369@gmail.com
+
+---
+
+⭐ Feel free to explore my repositories to see my engineering projects and technical work.
