@@ -67,6 +67,12 @@ Ongoing simulation study involving robotic arm modelling, kinematics and traject
 ### Biped Wall-Climbing Robot
 Ongoing mechatronics project focused on autonomous wall climbing, vacuum adhesion, robotic gait planning, sensing and vision-based inspection.
 
+### Reverse Engineering of an Infrared Cooker
+Reverse engineering study involving material identification (spark, density, magnetic testing and OES), deep-drawing process analysis, CAD modelling and design improvement of a metal chassis component.
+
+### Multi-Purpose Device Holder
+Manufacturing technology project involving mechanical design, woodworking, sheet-metal fabrication, welding, metalworking and assembly of a functional multi-purpose device holder.
+
 ---
 
 ## 🎓 Education
